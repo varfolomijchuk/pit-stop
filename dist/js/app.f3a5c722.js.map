@@ -1,0 +1,1 @@
+{"version":3,"file":"js/app.f3a5c722.js","mappings":"mBAEAA,QAAQC,IAAI,2B","sources":["webpack:///./src/js/app.js"],"sourcesContent":["import '../scss/app.scss';\n\nconsole.log('Hello from custom theme!');"],"names":["console","log"],"sourceRoot":""}

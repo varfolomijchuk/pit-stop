@@ -1,0 +1,21 @@
+{
+    "name": "theme/ai",
+    "description": "Custom theme",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Valentin.V",
+            "email": "varfolomoijchuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "symfony/var-dumper": "7.4.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "theme\\pitstop\\": "classes/"
+        }
+    }
+}
