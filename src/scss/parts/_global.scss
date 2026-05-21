@@ -102,3 +102,17 @@ body {
     }
   }
 }
+
+.single-cars {
+  .records-filter {
+    margin-bottom: 2rem;
+  }
+
+  &__records {
+    .service-record {
+      border: 1px solid grey;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+  }
+}
